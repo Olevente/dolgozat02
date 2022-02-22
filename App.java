@@ -14,6 +14,7 @@ public class App {
 	
 	public static void main (String[] args) {
 		System.out.println("Orosz Levente, 2022.02.22, Szoft-I-N");
+		System.out.println("Feladat 0349");
 		
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Magassag: ");
