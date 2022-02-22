@@ -10,7 +10,7 @@
 
 import java.util.Scanner;
 
-public class App {
+public class tavolsag {
 	
 	public static void main (String[] args) {
 		System.out.println("Orosz Levente, 2022.02.22, Szoft-I-N");
