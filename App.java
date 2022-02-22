@@ -22,6 +22,8 @@ public class App {
 		double szog = sc.nextDouble();
 		
 		double tavolsag = 
+		magassag/ 
+		(szog/180*Math.PI);
 		System.out.println("Tavolsag: " + tavolsag);
 	}
 }
